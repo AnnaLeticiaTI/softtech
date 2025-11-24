@@ -33,5 +33,3 @@ Sistema completo de gerenciamento com PHP e MySQL.
 MIT License
 
 ---
-
-⭐ Deixe uma estrela se ajudou!
