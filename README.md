@@ -27,9 +27,3 @@ Sistema completo de gerenciamento com PHP e MySQL.
 
 - Email: admin@softtech.com
 - Senha: admin123
-
-## 📄 Licença
-
-MIT License
-
----
